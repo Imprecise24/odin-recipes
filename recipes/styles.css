@@ -1,0 +1,22 @@
+/* styles.css */
+
+h1 {
+  color: blue;
+  background-color: black;
+  font-family: "Times New Roman", sans-serif;
+}
+
+.main {
+  background: green;
+}
+
+p,
+ul,
+ol {
+  color: blueviolet;
+  font-family: "Times New Roman", sans-serif;
+}
+
+h3 {
+  color: brown;
+}
